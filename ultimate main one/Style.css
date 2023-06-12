@@ -1,0 +1,43 @@
+﻿body, table 
+{
+    font-family:Arial,Helvetica,Sans-Serif;
+    font-size:.9em;
+}
+a 
+{
+    text-decoration:none;
+}
+a:hover
+{
+    text-decoration:underline;
+    background-color:#EEEEEE;
+}
+
+.menuPanel
+{
+    border-style: solid;
+    border-width: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    width: 250px;
+    
+}
+.sdfs
+{
+	float: right;
+}
+
+.db
+{
+	clip: rect(auto, auto, auto, auto);
+}
+.fontdd
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: normal;
+    font-style: normal;
+    
+}
+

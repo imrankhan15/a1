@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="clerktask" description="Home Page" url="clerktasks.aspx">
+   
+      <siteMapNode title="deletebook" description="deletebook"
+      url="deletebook.aspx" />
+      <siteMapNode title="insertbook" description="insertbook"
+      url="insertbook.aspx" />
+      <siteMapNode title="insertwriter" description="insertwriter"
+      url="insertwriter.aspx" />
+      <siteMapNode title="rentbook" description="rentbook"
+       url="rent book by member.aspx" >
+          <siteMapNode title="renthistory" description="renthistory"
+            url="renthistory.aspx" />
+      </siteMapNode>
+      <siteMapNode title="submitbook" description="submitbook"
+      url="submitbook.aspx" />
+      <siteMapNode title="submitchargeofabook" description="submitchargeofabook"
+      url="submitchargeofabook.aspx" />
+      <siteMapNode title="uploadbook" description="uploadbook"
+      url="UploadFile.aspx" />
+    
+    </siteMapNode>
+   
+ 
+</siteMap>
