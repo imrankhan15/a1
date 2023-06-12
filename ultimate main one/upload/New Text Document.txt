@@ -1,6 +1,0 @@
-declare
-a number;
-begin
-wbook('let us c','JosephImran','USA',a);
-end;
-/
